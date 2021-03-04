@@ -11,7 +11,7 @@
 
 
 **note:
- make sure the 2 image place in the "img" folder and name as bellow:
+ make sure the 2 images place in the "img" folder and name as bellow:
   main image(fixed) ==>  1.png
   2nd image ==========>  2.png
  
